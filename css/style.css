@@ -1,5 +1,23 @@
 *{
-    margin: 0;
-    padding: 0;
+    padding: 0px;
+    margin: 0px;
     box-sizing: border-box;
+}
+
+.bg-acqua{
+    background-color: rgb(127, 255, 212);
+}
+
+.contenitore-main{
+    width: 1002px;
+    height: 1002px;
+    /* padding: 0px;
+    margin: 0px; */
+    border: solid 1px black;
+}
+
+.quadrato{
+    width: 100px;
+    height: 100px;
+    border: solid 1px black;
 }
